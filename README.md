@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[how-am-i-a7c248.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinatafarm.com%2Fmemegenerator%2F5d76cab5-9908-461b-a3ab-eef869e99b23&psig=AOvVaw14quAqPmjazk315Hruj03I&ust=1746382537115000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICa_Yb0h40DFQAAAAAdAAAAABAT)](https://a.pinatafarm.com/640x360/ab9b7c5b89/walter-white-b4c596afde3d9e68e4fad7efd4bd0c79-meme.jpeg)" alt="MasterHead" />
+  <img src="https://cdn.discordapp.com/attachments/1162023166823116850/1368290153549791375/walter-white-b4c596afde3d9e68e4fad7efd4bd0c79-meme.png?ex=6817af02&is=68165d82&hm=ea1cb78aa29a2c7f436470877d8788a6f15149ad65ce56e5721ab5e6cc97e8df&" alt="MasterHead" />
 </p>
 
 

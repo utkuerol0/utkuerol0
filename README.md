@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1162023166823116850/1368290153549791375/walter-white-b4c596afde3d9e68e4fad7efd4bd0c79-meme.png?ex=6817af02&is=68165d82&hm=ea1cb78aa29a2c7f436470877d8788a6f15149ad65ce56e5721ab5e6cc97e8df&" alt="MasterHead" />
+  <img src="https://discord.com/channels/@me/1162023166823116850/1368290153889792032" alt="MasterHead" />
 </p>
 
 

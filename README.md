@@ -98,10 +98,6 @@ const HIMURAw = {
       <br>Lua
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
       <br>Electron
     </td>

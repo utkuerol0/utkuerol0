@@ -18,7 +18,7 @@
 > **17-year-old visionary developer from Turkey**, transforming ideas into premium digital experiences that power communities worldwide.
 
 ```
-const HIMURAw = {
+const Utki = {
     location: "🇹🇷 Turkey",
     age: 17,
     role: "Full-Stack Developer & FiveM Architect",

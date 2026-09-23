@@ -110,6 +110,11 @@ const Utki = {
         <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="go" />
+      <br>Goland
+       
+    </td>
   </tr>
   <!-- Row 3: Backend & Game Dev -->
   <tr>

@@ -85,6 +85,11 @@ const Utki = {
         <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
       <br>C#
     </td>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="Go" />
+      <br>Golang
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
